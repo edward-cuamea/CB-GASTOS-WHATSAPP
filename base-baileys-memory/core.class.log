@@ -1,0 +1,585 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216624045267@s.whatsapp.net',
+    fromMe: false,
+    id: 'BAEDE0D306C3B8299C13C8C874B74742',
+    participant: undefined
+  },
+  messageTimestamp: 1727067578,
+  pushName: 'Scott',
+  broadcast: false,
+  message: Message {
+    conversation: 'Ingreso',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Ingreso',
+  from: '5216624045267'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_553c96cd-25ff-423a-8ff4-310e53f94a4d',
+  keyword: 'key_c2abdb43-cbea-4641-b5b7-11cefbb3fb89',
+  answer: 'Fecha del ingreso',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '73846c2ebe3ccedd68dc777111e3dd63'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216624045267@s.whatsapp.net',
+    fromMe: false,
+    id: '13F25381681CE926AADADBCAD0F66AB3',
+    participant: undefined
+  },
+  messageTimestamp: 1727067584,
+  pushName: 'Scott',
+  broadcast: false,
+  message: Message {
+    conversation: '22/Sep/2024',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '22/Sep/2024',
+  from: '5216624045267'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_60ad8eda-cecf-4b48-85f8-7f5a5d3c1e1c',
+  keyword: 'ans_553c96cd-25ff-423a-8ff4-310e53f94a4d',
+  answer: 'Monto del ingreso',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'c1188e62609d66997fbdffb2176919af'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216624045267@s.whatsapp.net',
+    fromMe: false,
+    id: '6CAB75859612A6553BBA0491E3E069C2',
+    participant: undefined
+  },
+  messageTimestamp: 1727067587,
+  pushName: 'Scott',
+  broadcast: false,
+  message: Message {
+    conversation: '1811.16',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1811.16',
+  from: '5216624045267'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_682cfceb-7874-4252-a360-9993ba188243',
+  keyword: 'ans_60ad8eda-cecf-4b48-85f8-7f5a5d3c1e1c',
+  answer: 'Concepto del ingreso',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '2d76b6e4f4d4b850cfcc2397ab11e164'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216624045267@s.whatsapp.net',
+    fromMe: false,
+    id: '2D789B1C9C47F2449E41E2F7E997B267',
+    participant: undefined
+  },
+  messageTimestamp: 1727067592,
+  pushName: 'Scott',
+  broadcast: false,
+  message: Message {
+    conversation: 'Beca',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Beca',
+  from: '5216624045267'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8121b202-1948-4f4d-870a-ededf03dc3b3',
+  keyword: 'ans_682cfceb-7874-4252-a360-9993ba188243',
+  answer: 'Categoría del ingreso',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '5c22f8fd7c15db25e0483bfb38eac2fc'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216624045267@s.whatsapp.net',
+    fromMe: false,
+    id: '8669F7374C38270D0A35DE3E8E4FA66C',
+    participant: undefined
+  },
+  messageTimestamp: 1727067594,
+  pushName: 'Scott',
+  broadcast: false,
+  message: Message {
+    conversation: 'Beca',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Beca',
+  from: '5216624045267'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1446c228-cfce-42db-a235-df6e2f09e202',
+  keyword: 'ans_8121b202-1948-4f4d-870a-ededf03dc3b3',
+  answer: 'Ingreso registrado',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '229459d9ac1aa9820d13e6e6fdd56fd6'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216624045267@s.whatsapp.net',
+    fromMe: false,
+    id: 'B676943A6D7E8E3AE9BAC51073034802',
+    participant: undefined
+  },
+  messageTimestamp: 1727067654,
+  pushName: 'Scott',
+  broadcast: false,
+  message: Message {
+    conversation: 'Gasto',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Gasto',
+  from: '5216624045267'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6e4b1555-94c9-49e2-a7d4-c3ebd1fb74f1',
+  keyword: 'key_91393a9d-ccf3-4380-8c09-89d25849efe7',
+  answer: 'Fecha del gasto',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '08ed3ba2ad08e87241c4ce20987cc9ca'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216624045267@s.whatsapp.net',
+    fromMe: false,
+    id: '207D09BA26E824B51404F5DC94A82597',
+    participant: undefined
+  },
+  messageTimestamp: 1727067657,
+  pushName: 'Scott',
+  broadcast: false,
+  message: Message {
+    conversation: 'Oskdk',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Oskdk',
+  from: '5216624045267'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6b913fa4-e568-4e61-9d90-0acd0d1d220b',
+  keyword: 'ans_6e4b1555-94c9-49e2-a7d4-c3ebd1fb74f1',
+  answer: 'Monto del gasto',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '9437e530855b727fdf5d4775a054fa28'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216624045267@s.whatsapp.net',
+    fromMe: false,
+    id: 'F9025F7BB1E9DBB3A3FC24D73D02C445',
+    participant: undefined
+  },
+  messageTimestamp: 1727067660,
+  pushName: 'Scott',
+  broadcast: false,
+  message: Message {
+    conversation: '100',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '100',
+  from: '5216624045267'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c137d0f2-ffb8-44d3-9697-c596eb1b3df3',
+  keyword: 'ans_6b913fa4-e568-4e61-9d90-0acd0d1d220b',
+  answer: 'Concepto del gasto',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'a9a9e02dd787a1e72ab6e8fde7fc9e46'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216624045267@s.whatsapp.net',
+    fromMe: false,
+    id: 'E43F0F5A9802B5F1F871E511FAD65CA2',
+    participant: undefined
+  },
+  messageTimestamp: 1727067663,
+  pushName: 'Scott',
+  broadcast: false,
+  message: Message {
+    conversation: 'Kskd',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Kskd',
+  from: '5216624045267'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_131d0e4f-954c-48c0-8424-3b90b5d949d5',
+  keyword: 'ans_c137d0f2-ffb8-44d3-9697-c596eb1b3df3',
+  answer: 'Categoría del gasto',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '74b73cf17aec0440361e83c9a951e747'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216624045267@s.whatsapp.net',
+    fromMe: false,
+    id: 'F19E94FE812E639C02FBCE07C87AB85B',
+    participant: undefined
+  },
+  messageTimestamp: 1727067664,
+  pushName: 'Scott',
+  broadcast: false,
+  message: Message {
+    conversation: 'Kdkd',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Kdkd',
+  from: '5216624045267'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_bc30b9fb-d47b-4a26-9d6f-591dd6945866',
+  keyword: 'ans_131d0e4f-954c-48c0-8424-3b90b5d949d5',
+  answer: 'Gasto registrado',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '82fc5e1645d320bf93c0217cf2a2144e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216624045267@s.whatsapp.net',
+    fromMe: false,
+    id: '9306D020268D0857D91F5C70E6C36116',
+    participant: undefined
+  },
+  messageTimestamp: 1727067711,
+  pushName: 'Scott',
+  broadcast: false,
+  message: Message {
+    conversation: 'Ingreso',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Ingreso',
+  from: '5216624045267'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_553c96cd-25ff-423a-8ff4-310e53f94a4d',
+  keyword: 'key_c2abdb43-cbea-4641-b5b7-11cefbb3fb89',
+  answer: 'Fecha del ingreso',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '73846c2ebe3ccedd68dc777111e3dd63'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216624045267@s.whatsapp.net',
+    fromMe: false,
+    id: 'F96F062066883AF346902C8BCD1466B5',
+    participant: undefined
+  },
+  messageTimestamp: 1727067717,
+  pushName: 'Scott',
+  broadcast: false,
+  message: Message {
+    conversation: '22/Sep/2024',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '22/Sep/2024',
+  from: '5216624045267'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_60ad8eda-cecf-4b48-85f8-7f5a5d3c1e1c',
+  keyword: 'ans_553c96cd-25ff-423a-8ff4-310e53f94a4d',
+  answer: 'Monto del ingreso',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'c1188e62609d66997fbdffb2176919af'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216624045267@s.whatsapp.net',
+    fromMe: false,
+    id: '38D487DD4A4C229D266B031491EFF242',
+    participant: undefined
+  },
+  messageTimestamp: 1727067728,
+  pushName: 'Scott',
+  broadcast: false,
+  message: Message {
+    conversation: '1811.16',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1811.16',
+  from: '5216624045267'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_682cfceb-7874-4252-a360-9993ba188243',
+  keyword: 'ans_60ad8eda-cecf-4b48-85f8-7f5a5d3c1e1c',
+  answer: 'Concepto del ingreso',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '2d76b6e4f4d4b850cfcc2397ab11e164'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216624045267@s.whatsapp.net',
+    fromMe: false,
+    id: '0AAF7143C666938951E1C01E25973FE3',
+    participant: undefined
+  },
+  messageTimestamp: 1727067732,
+  pushName: 'Scott',
+  broadcast: false,
+  message: Message {
+    conversation: 'Beca',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Beca',
+  from: '5216624045267'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8121b202-1948-4f4d-870a-ededf03dc3b3',
+  keyword: 'ans_682cfceb-7874-4252-a360-9993ba188243',
+  answer: 'Categoría del ingreso',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '5c22f8fd7c15db25e0483bfb38eac2fc'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216624045267@s.whatsapp.net',
+    fromMe: false,
+    id: '3C024C8DAB6E5E70A67E3B65E53325DE',
+    participant: undefined
+  },
+  messageTimestamp: 1727067735,
+  pushName: 'Scott',
+  broadcast: false,
+  message: Message {
+    conversation: 'Beca',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Beca',
+  from: '5216624045267'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1446c228-cfce-42db-a235-df6e2f09e202',
+  keyword: 'ans_8121b202-1948-4f4d-870a-ededf03dc3b3',
+  answer: 'Ingreso registrado',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '229459d9ac1aa9820d13e6e6fdd56fd6'
+}
